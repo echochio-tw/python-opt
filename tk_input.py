@@ -8,8 +8,7 @@ def call_result(label_result, n1):
     # here can call auth .....
     return
    
-root = tk.Tk()  
-#root.geometry('400x200+100+200')
+root = tk.Tk()
 root.title('OTP')  
 input1 = tk.StringVar()  
   
